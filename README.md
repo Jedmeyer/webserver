@@ -1,4 +1,4 @@
-The project satisfies the basic assignment: a webserver that recieves GET requests and sends the recieved file.
+A webserver that recieves GET requests and sends the recieved file.
 
 Advanced features:
 
